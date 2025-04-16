@@ -13,19 +13,19 @@ title                    : "Qinrui Dai / Ph.D"
 title_separator          : "-"
 name                     : &name "Qinrui Dai"
 description              : &description "Complex networks, Neural networks, Dynamical systems"
-url                      : https://https://qinruidai.github.io/QinruiDai2.github.io/ # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+url: "https://qinruidai.github.io/QinruiDai2.github.io/"  #  子路径模式
+baseurl: "/QinruiDai2.github.io"  # 需同时设置 baseurl
+repository               : "qinruidai.github.io/QinruiDai2.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "dai.jpg"
+  avatar           : "/images/dai.jpg"
   name             : "Qinrui Dai"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Ph.D Candidate in Complex Networks at Wuhan University"
   location         : "Wuhan China"
   employer         : "Wuhan University"
   uri              : # URL
@@ -45,7 +45,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "qinruidai"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
