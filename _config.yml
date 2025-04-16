@@ -13,7 +13,7 @@ title                    : "Qinrui Dai / Ph.D"
 title_separator          : "-"
 name                     : &name "Qinrui Dai"
 description              : &description "Complex networks, Neural networks, Dynamical systems"
-url: "https://qinruidai.github.io/QinruiDai2.github.io/"  #  子路径模式
+url: "https://qinruidai.github.io"  #  子路径模式
 baseurl: "/QinruiDai2.github.io"  # 需同时设置 baseurl
 repository               : "qinruidai.github.io/QinruiDai2.github.io"
 
