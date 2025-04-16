@@ -14,8 +14,8 @@ title_separator          : "-"
 name                     : &name "Qinrui Dai"
 description              : &description "Complex networks, Neural networks, Dynamical systems"
 url: "https://qinruidai.github.io"  #  子路径模式
-baseurl: "/QinruiDai2.github.io"  # 需同时设置 baseurl
-repository               : "qinruidai.github.io/QinruiDai2.github.io"
+baseurl: " "  # 需同时设置 baseurl
+repository               : "qinruidai/qinruidai.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
